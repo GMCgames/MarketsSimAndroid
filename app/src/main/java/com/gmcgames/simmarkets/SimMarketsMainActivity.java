@@ -10,4 +10,5 @@ public class SimMarketsMainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sim_markets_main);
     }
+
 }
